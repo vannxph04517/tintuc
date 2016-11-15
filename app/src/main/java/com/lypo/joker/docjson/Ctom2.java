@@ -24,7 +24,7 @@ public class Ctom2 extends BaseAdapter {
     public Ctom2(Context mycontext, int myLayout, List<tintuc> ArrTintuc) {
         this.mycontext = mycontext;
         this.myLayout = myLayout;
-        this.ArrTintuc = ArrTintuc;
+
     }
 
     @Override
